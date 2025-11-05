@@ -1,10 +1,13 @@
 # Case_Manager
 
-Project Structure
+# **Project Structure**
+
 --policecasemanagementsystem/
-├── src/
+
+├── src/   
+    
     ├── policecasemanagementsystem/
-    │   ├── PoliceCaseManagementSystem.java  // Main application frame
+    │   ├── PoliceCaseManagementSystem.java  // Main application frame 
     │   ├── OfficerPanel.java               // Officer management GUI
     │   ├── CasePanel.java                  // Case management GUI
     │   ├── DatabaseConnection.java         // Database connection handler
@@ -16,4 +19,6 @@ Project Structure
         └── policecasemanager.sql          // Database schema and setup
 ├──README.md
 
-#Database Schema Documentation
+# **Database Schema Documentation**
+
+
