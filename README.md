@@ -1,5 +1,6 @@
 # Case_Manager
 
+  <img width="1086" height="620" alt="Screenshot 2025-11-05 214653" src="https://github.com/user-attachments/assets/d7c2c2b4-3c55-4572-8b16-27ca2d4bab41" />
 # Project Structure
 
 - policecasemanagementsystem/
@@ -302,8 +303,7 @@ public class CasePanel extends JPanel {
 - Input validation on all user inputs
 - Proper resource management with try-with-resources
 
-# Question 5
-  <img width="1086" height="620" alt="Screenshot 2025-11-05 214653" src="https://github.com/user-attachments/assets/d7c2c2b4-3c55-4572-8b16-27ca2d4bab41" />
+
 
 
 
