@@ -303,6 +303,8 @@ public class CasePanel extends JPanel {
 - Input validation on all user inputs
 - Proper resource management with try-with-resources
 
+Author -Karabo -GitHub: @Karabo-Maphoto01
+
 
 
 
